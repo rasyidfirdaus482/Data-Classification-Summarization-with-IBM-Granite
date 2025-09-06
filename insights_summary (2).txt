@@ -1,0 +1,54 @@
+IMDB SENTIMENT ANALYSIS - IBM GRANITE INSIGHTS
+==================================================
+
+1. Common Themes:
+   - Aesthetics and Production Quality: Reviews frequently comment on the visual appeal and production quality of the content. This includes the look of the arena in the wrestling review, the diverse elements in Farscape, and the cinematography in Tommy Boy.
+   - Character-Driven Drama: Many reviews highlight the importance of character development and relationships. This is evident in Farscape's complex character evolution and the family dynamics in Tommy Boy.
+   - Humor and Entertainment: Humor is a significant theme, especially in Tommy Boy and Tinseltown, where the comedic performances and one-liners are praised.
+   - Social Commentary: Favela Rising is noted for its exploration of societal issues, particularly poverty and violence.
+
+2. Main Reasons for Positive/Negative Sentiments:
+   - Positive: High praise is given for engaging storylines (Farscape, Favela Rising), strong character development (Farscape, Tommy Boy), and effective humor (Tommy Boy, Tinseltown). The visual appeal and production quality are also frequently cited as positives (SummerSlam, Farscape, Tommy Boy).
+   - Negative: Criticisms often revolve around poor plot coherence (Tommy Boy film, Tinseltown), unrealistic family dynamics (Tommy Boy), and overly simplistic or patronizing explanations of complex topics (Tinseltown). The wrestling review is negative due to the poor main event and Lex Luger's involvement.
+
+3. Overall Patterns in Audience Feedback:
+   - Appreciation for Diverse Content: Reviews show a preference for content that appeals to a broad audience, such as Farscape, which combines elements from various genres and cultures.
+   - Importance of Character and Humor: Both character development and humor are consistently highlighted as crucial elements for audience engagement and enjoyment.
+   - Criticism of Unrealistic or Poorly Executed Elements: Negative feedback often targets unrealistic or poorly executed aspects, such as unbelievable family dynamics or lack of logical plot progression.
+   - Nostalgia and Personal Connection: Some reviews express
+
+
+🎯 KEY BUSINESS INSIGHTS:
+
+📊 SENTIMENT OVERVIEW:
+- Total Reviews Analyzed: 100
+- Positive Sentiment Ratio: 52.0%
+- Negative Sentiment Ratio: 48.0%
+- IBM Granite Model Accuracy: 92.9%
+
+💡 REKOMENDASI STRATEGIS BERDASARKAN INSIGHT_SUMMARY YANG TELAH DIDAPAT:
+
+1. 📈 STRATEGI KONTEN:
+   - Fokus pada elemen-elemen yang mendorong sentimen positif
+   - Tangani poin-poin umpan balik negatif yang umum
+   - Manfaatkan pola sukses dalam konten di masa depan
+
+2. 🎬 INSIGHT PRODUKSI:
+   - Kualitas cerita adalah faktor utama pendorong ulasan positif
+   - Penampilan akting sangat memengaruhi kepuasan penonton
+   - Aspek teknis (sinematografi, efek) menjadi pembeda penting
+
+3. 📱 APLIKASI PEMASARAN:
+   - Gunakan tema ulasan positif dalam kampanye pemasaran
+   - Tangani kekhawatiran umum secara proaktif dalam komunikasi
+   - Manfaatkan analisis sentimen untuk iklan yang lebih terarah
+
+4. 🔄 PERBAIKAN BERKELANJUTAN:
+   - Terapkan pemantauan sentimen secara real-time
+   - Analisis rutin terhadap pola ulasan
+   - Sistem peringatan otomatis untuk lonjakan sentimen negatif
+
+🎯 LANGKAH SELANJUTNYA:
+- Terapkan model IBM Granite untuk analisis sentimen real-time
+- Buat dashboard pelaporan otomatis
+- Integrasikan insight ke dalam alur kerja perencanaan konten
