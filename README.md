@@ -14,7 +14,7 @@ Proyek capstone ini mendemonstrasikan penerapan praktis model AI IBM Granite unt
 
 ## 🗂️ Informasi Dataset
 
-**Dataset**: Dataset Review Film IMDB
+**Dataset**: Dataset Review Film IMDB (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Ukuran**: 24.514 review film (sampel analisis 100 review)
 - **Fitur**: 
   - `review`: Konten teks review film
@@ -118,11 +118,10 @@ Proyek capstone ini mendemonstrasikan penerapan praktis model AI IBM Granite unt
 3. **Analisis Kompetitif**: Monitor pola sentimen dan respons kompetitor
 4. **Analitik Prediktif**: Gunakan wawasan untuk peramalan performa konten
 
-### 🚀 **Rekomendasi Implementasi**
-- Deployment dashboard analisis sentimen real-time
-- Integrasi dengan platform monitoring media sosial
-- Analisis diperluas untuk menyertakan model genre-spesifik
-- Dukungan multi-bahasa untuk analisis pasar global
+### 🚀 **Langkah Selanjutnya:**
+- Terapkan model IBM Granite untuk analisis sentimen real-time
+- Buat dashboard pelaporan otomatis
+- Integrasikan insight ke dalam alur kerja perencanaan konten
 
 ## 🤖 Implementasi Teknologi AI
 
@@ -161,14 +160,25 @@ Proyek capstone ini mendemonstrasikan penerapan praktis model AI IBM Granite unt
 - **Skalabilitas**: Pemrosesan otomatis ribuan review
 - **Efisiensi Biaya**: Pengurangan waktu analisis manual dan peningkatan konsistensi
 
+## 📁 Deliverable Proyek
+
+### **File yang Telah Diselesaikan:**
+```
+imdb-sentiment-analysis/
+│
+├── README.md - Dokumentasi proyek lengkap
+├── imdb_granite_results.csv - Hasil analisis sentimen (100 review)
+├── ringkasan_wawasan (2).txt - Ringkasan wawasan bisnis
+└── klasifikasi_dan_ringkasan.ipynb - Notebook analisis dengan IBM Granite
+```
 
 ### **Deliverable Utama:**
-- ✅ Pipeline analisis sentimen lengkap
-- ✅ Integrasi model IBM Granite via Replicate
-- ✅ Wawasan bisnis komprehensif (insights_summary.txt)
-- ✅ Hasil analisis detail (imdb_granite_results.csv)
-- ✅ Visualisasi dan metrik performa
-- ✅ Rekomendasi strategis untuk stakeholder
+- ✅ Dokumentasi proyek lengkap (README.md)
+- ✅ Notebook analisis sentimen dengan IBM Granite (klasifikasi_dan_ringkasan.ipynb)
+- ✅ Hasil klasifikasi dalam format CSV (imdb_granite_results.csv)
+- ✅ Wawasan bisnis komprehensif (ringkasan_wawasan (2).txt)
+- ✅ Visualisasi dan metrik performa dalam notebook
+- ✅ Rekomendasi strategis berdasarkan insight yang dihasilkan
 
 ## 🛠️ Implementasi Teknis
 
@@ -222,6 +232,14 @@ insights = summarize_insights(review_list, granite_llm)
 
 Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 
+## 🙏 Pengakuan
+
+- Tim IBM Granite untuk menyediakan kemampuan AI lanjutan melalui platform Replicate
+- IMDB untuk dataset review film yang komprehensif
+- LangChain Community untuk integrasi model yang seamless
+- Student Development Initiative untuk bimbingan dan dukungan proyek
+
+---
 
 **⭐ Status Proyek: BERHASIL DISELESAIKAN**
 
